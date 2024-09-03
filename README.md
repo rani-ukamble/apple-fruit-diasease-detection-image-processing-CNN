@@ -1,4 +1,4 @@
-# apple-fruit-diasease-detection-image-processing-CNN
+# Apple-fruit-diasease-detection-image-processing-CNN
 
 Goal: The major reason affecting apple production is the occurrence of apple diseases. In order to improve the fruit production of the valley, it is necessary to detect the onset of diseases on time and accordingly advise the farmers to act based on the expert suggestions and recommendations.
 
